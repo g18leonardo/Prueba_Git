@@ -1,0 +1,11 @@
+C:\Users\g18le\Documents\Desarrollo\Prueba_Git\Prueba_Git\bin\Debug\Prueba_Git.exe.config
+C:\Users\g18le\Documents\Desarrollo\Prueba_Git\Prueba_Git\bin\Debug\Prueba_Git.exe
+C:\Users\g18le\Documents\Desarrollo\Prueba_Git\Prueba_Git\bin\Debug\Prueba_Git.pdb
+C:\Users\g18le\Documents\Desarrollo\Prueba_Git\Prueba_Git\obj\Debug\Prueba_Git.csproj.AssemblyReference.cache
+C:\Users\g18le\Documents\Desarrollo\Prueba_Git\Prueba_Git\obj\Debug\Prueba_Git.csproj.SuggestedBindingRedirects.cache
+C:\Users\g18le\Documents\Desarrollo\Prueba_Git\Prueba_Git\obj\Debug\Prueba_Git.Form1.resources
+C:\Users\g18le\Documents\Desarrollo\Prueba_Git\Prueba_Git\obj\Debug\Prueba_Git.Properties.Resources.resources
+C:\Users\g18le\Documents\Desarrollo\Prueba_Git\Prueba_Git\obj\Debug\Prueba_Git.csproj.GenerateResource.cache
+C:\Users\g18le\Documents\Desarrollo\Prueba_Git\Prueba_Git\obj\Debug\Prueba_Git.csproj.CoreCompileInputs.cache
+C:\Users\g18le\Documents\Desarrollo\Prueba_Git\Prueba_Git\obj\Debug\Prueba_Git.exe
+C:\Users\g18le\Documents\Desarrollo\Prueba_Git\Prueba_Git\obj\Debug\Prueba_Git.pdb
