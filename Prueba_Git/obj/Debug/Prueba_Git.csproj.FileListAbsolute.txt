@@ -9,14 +9,3 @@ C:\Users\g18le\Documents\Desarrollo\Prueba_Git\Prueba_Git\obj\Debug\Prueba_Git.c
 C:\Users\g18le\Documents\Desarrollo\Prueba_Git\Prueba_Git\obj\Debug\Prueba_Git.csproj.CoreCompileInputs.cache
 C:\Users\g18le\Documents\Desarrollo\Prueba_Git\Prueba_Git\obj\Debug\Prueba_Git.exe
 C:\Users\g18le\Documents\Desarrollo\Prueba_Git\Prueba_Git\obj\Debug\Prueba_Git.pdb
-C:\PruebaGitHub\Prueba_Git\bin\Debug\Prueba_Git.exe.config
-C:\PruebaGitHub\Prueba_Git\bin\Debug\Prueba_Git.exe
-C:\PruebaGitHub\Prueba_Git\bin\Debug\Prueba_Git.pdb
-C:\PruebaGitHub\Prueba_Git\obj\Debug\Prueba_Git.csproj.AssemblyReference.cache
-C:\PruebaGitHub\Prueba_Git\obj\Debug\Prueba_Git.csproj.SuggestedBindingRedirects.cache
-C:\PruebaGitHub\Prueba_Git\obj\Debug\Prueba_Git.Form1.resources
-C:\PruebaGitHub\Prueba_Git\obj\Debug\Prueba_Git.Properties.Resources.resources
-C:\PruebaGitHub\Prueba_Git\obj\Debug\Prueba_Git.csproj.GenerateResource.cache
-C:\PruebaGitHub\Prueba_Git\obj\Debug\Prueba_Git.csproj.CoreCompileInputs.cache
-C:\PruebaGitHub\Prueba_Git\obj\Debug\Prueba_Git.exe
-C:\PruebaGitHub\Prueba_Git\obj\Debug\Prueba_Git.pdb
